@@ -1,0 +1,101 @@
+.cover{
+  background-image:  url("../../_media/cover.png") !important;
+  background-position: center !important; /* Center the image */
+  background-repeat: no-repeat !important; /* Do not repeat the image */
+  background-size: cover !important;
+}
+
+section.cover .cover-main{
+  margin: 0px;;
+}
+
+
+.header{
+  font-size: 7em;
+  color: white;
+  margin: 0px;;
+  border: 0px solid #021a40 !important;
+  background-color: none !important;
+
+}
+
+.subheader{
+  font-size: 2em;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 10%;
+}
+
+.author{
+  font-size: 1em;
+  color: white;
+  font-weight: 700;
+}
+
+.email{
+  font-size: 1em;
+  color: white;
+  font-weight: 700;
+}
+
+.license{
+  margin-top: 20px;
+  font-size: 1em;
+  color: white;
+  font-weight: 500;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.0em;
+}
+
+iframe{
+    height:500;
+    width: 100%;
+    border: 1px solid #021a40 !important;
+  }
+
+.half-width{
+  display: block;
+  width: 40%;
+  float: right
+}
+
+.full-width{
+  display: block;
+  width: 100%;
+}
+
+img, figcaption{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%
+}
+
+img{
+  border: 0px solid #021a40 !important;
+}
+
+figcaption{
+  font-size: 0.9em;
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 600px) {
+  .half-width{
+    display: block;
+    width: 100%;
+  }
+}
+
+.katex { font-size: 1.1em !important; }
+
+table{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100% !important;
+}
+
+
