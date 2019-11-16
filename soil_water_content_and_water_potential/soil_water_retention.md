@@ -5,7 +5,7 @@
 When the United States National Aeronautics and Space Administration (NASA) was building the Phoenix Mars Lander to explore the surface of Mars, the project leaders contacted soil physicists to create a special sensor for the rover’s robotic arm (Fig. 3‑1). The purpose of that sensor was to test for the presence of water in the Martian soil. The fascinating story of the resulting partnership between NASA and soil scientists is recounted in this [video](https://youtu.be/wW1zlgFRP4c). The NASA scientists knew that finding water on Mars was key to answering questions about the possibility of life on that hostile planet. Water is the life-blood of the soil. Almost all terrestrial life and almost all soil biological, chemical, and physical processes are influenced by the water content of the soil.
 
 <figure class='half-width'>
-	<img src="../_media/chapter_3/mars_rover.png" alt="mars rover">
+	<img src="_media/chapter_3/mars_rover.png" alt="mars rover">
   	<figcaption>Fig. 3‑1.  NASA's Phoenix Mars Lander's Robotic Arm with its thermal and electrical conductivity 				probe at the lower right, pointing toward the Martian soil (July 14, 2008).**
 				Photo credit: NASA/JPL <a href="https://www.jpl.nasa.gov/news/news.php?feature=1787">Link</a>
 	</figcaption>
